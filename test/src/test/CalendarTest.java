@@ -57,6 +57,6 @@ public class CalendarTest {
 		// miesi¹ca.
 		// Wydruk koñcowego znaku nowego wiersza w razie potrzeby.
 		if (weekday != firstDayOfWeek)
-			System.out.println();
+			System.out.println("test");
 	}
 }
