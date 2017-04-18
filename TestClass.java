@@ -9,11 +9,10 @@ public class TestClass {
 			int depth = QM.depthOf("TESTQUEUE");
 			System.out.println(depth);
 			if (depth>0){
-				System.out.println("tak");
+				System.out.println("tak2");
 			}
 			}catch(Exception e){System.out.println("rest of the code...");  }  
 
-　
 	}
 
 }
